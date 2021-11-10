@@ -1,4 +1,4 @@
-# Steffi Wellington Bootstrap-Portfolio
+# Steffi Barghout Bootstrap-Portfolio
 A Portfolio made with the illustrious Bootstrap.
 
 ### What is this?
