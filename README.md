@@ -13,6 +13,6 @@ You can use this code yourself by first copying the code and using git clone in 
 
 
  * Here is what the Bootrap Portfolio looks like and if you click the picture you can go straight to looking through the portfolio!
-<a href="https://steffisbootcampdrive.github.io/Bootstrap-Portfolio/" target="_blank">
+<a href="https://steffibarghout.github.io/Bootstrap-Portfolio/" target="_blank">
     <img src="images/Bootstrap-Portfolio.png" alt="BootstrapPortfolio">
 </a>
